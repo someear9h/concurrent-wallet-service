@@ -1,6 +1,6 @@
 # Run Instructions and Explanation Paragraph
 
-## 1. Run Instructions (README.md content)
+## 1. Run Instructions
 
 **How to Run the Server**
 The application is containerized for consistent execution.
